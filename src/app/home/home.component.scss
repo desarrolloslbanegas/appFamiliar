@@ -1,9 +1,17 @@
-@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+a {
+    text-decoration: none;
+    color: black;
+}
+
 
 .btn-primary {
-    background-color: #0a58ca;
+    background-color: #b5e48c;
+    border: none;
 }
 
 .btn-primary:hover {
-    background-color: #073881;
+    background-color: #99d98c;
+    border: none;
+
 }
+
